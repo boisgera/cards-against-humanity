@@ -95,7 +95,8 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     Do you lack [the proper motivation](https://i.ytimg.com/vi/mWqGJ613M5Y/maxresdefault.jpg)? 😉
     Let's be honest, learning Javascript -- and a new set of APIs -- will take some effort,
     but some of your Python skills should be transferable. 
-    Therefore I believe that it should be reasonably easy to build a 
-    clunky and minimalistic but working prototype[^2].
+    Taking into account the rather low complexity of the problem I believe 
+    that it should be reasonably easy to build a clunky and minimalistic but 
+    working prototype[^2].
 
 [^2]: This statement is highly non-contractual. 😉
