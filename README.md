@@ -93,7 +93,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
 
   - **I couldn't code if my life depended on it, is this project for me?**
     Do you lack [the proper motivation](https://i.ytimg.com/vi/mWqGJ613M5Y/maxresdefault.jpg)?
-    Let's ne honest, learning Javascript -- and a new set of APIs -- will take dôme effort,
+    Let's be honest, learning Javascript -- and a new set of APIs -- will take some effort,
     but some of your Python skills should be transferable. And additionally,
     I believe that it should be reasonably easy to get a clunky ans minimalistic but working prototype[^2].
 
