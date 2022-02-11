@@ -99,4 +99,4 @@ Humanity financially. You may also consider the [Science Pack](https://www.cards
     that it should be reasonably easy to build a clunky and minimalistic but 
     working prototype[^2].
 
-[^2]: This statement is highly non-contractual. 😉
+[^2]: This statement is non-contractual. 😉
