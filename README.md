@@ -98,9 +98,9 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     but most of your Python skills should be transferable. And on the other hand,
     it (wildly) guess that it should be "reasonably easy" to get a (very simple) working prototype 
     if you opt for a very simple interface (say, only text and buttons and 
-    maybe a complex initial setup to connect to the peers)[2].
+    maybe a complex initial setup to connect to the peers)[^2].
     Of course, there is still plenty of work to do at this point if you want to
     provide a more polished user experience.
 
 
-[2]: This statement is highly non-contractual. 😉
+[^2]: This statement is highly non-contractual. 😉
