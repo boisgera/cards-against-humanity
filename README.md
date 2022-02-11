@@ -60,7 +60,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
 
 ### Technical stack
 
-  - **Mobile Apps suckz, Web Apps rules.** You app will be hosted in a (mobile)
+  - 🌐 **Mobile Apps suckz, Web Apps rules.** You app will be hosted in a (mobile)
     browser which means the "usual" foundation: HTML, Javascript, CSS, etc.
     And maybe, if you have been especially naughty, 
     [some](https://mithril.js.org/) 
@@ -70,7 +70,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     [framework](https://svelte.dev/) 
     on top of that (?).
 
-  - **Peer-to-peer.** Since every player will use his own mobile phone as a 
+  - 🫂 **Peer-to-peer.** Since every player will use his own mobile phone as a 
     virtual hand of cards, these browser need to communicate. We'd like to
     avoid the need a central server (because, you know, **more work! 🏗️**),
     the [WebRTC](https://webrtc.org/) technology (or a simpler layer on
