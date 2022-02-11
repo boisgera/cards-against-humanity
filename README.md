@@ -93,14 +93,9 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
 
   - **I couldn't code if my life depended on it, is this project for me?**
     Do you lack [the proper motivation](https://i.ytimg.com/vi/mWqGJ613M5Y/maxresdefault.jpg)?
-    More seriously, learning Javascript -- and a new set of APIs -- will be needed
-    and it's going to take a bit of time;
-    but some of your Python skills should be transferable. And on the other hand,
-    I (wildly) guess that it should be "reasonably easy" to get a clunky but working prototype 
-    if you opt for a very simple interface (say, only text and buttons and 
-    maybe a complex initial setup to connect to the peers)[^2].
-    Of course, there is still potentially plenty of work to do at this point if you want to
-    provide a more polished user experience.
+    Let's ne honest, learning Javascript -- and a new set of APIs -- will take dôme effort,
+    but some of your Python skills should be transferable. And additionally,
+    I believe that it should be reasonably easy to get a clunky ans minimalistic but working prototype[^2].
 
 
 [^2]: This statement is highly non-contractual. 😉
