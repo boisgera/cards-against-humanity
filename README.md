@@ -16,7 +16,7 @@
 
 For example, one question is:
 
-> I am sorry Professor, but I couldn't complete my homework because of ___________
+  - I am sorry Professor, but I couldn't complete my homework because of ___________
 
 and you may have to chose the "best" (funniest) complement among:
 
