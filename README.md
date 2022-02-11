@@ -55,7 +55,7 @@ of the original game.
 [^0]: Here is the definition of [pixelated](https://en.wikipedia.org/wiki/Pixelation) 😊
 
 [^1]: But by all means, buy the [classic deck of cards](https://www.cardsagainsthumanity.com/products/cards-against-humanity) if you want to support Cards Against
-Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.com/products/science-pack) whose profits are donated to the [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) for women in STEM.
+Humanity financially. You may also consider the [Science Pack](https://www.cardsagainsthumanity.com/products/science-pack) whose profits are donated to the [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) for women in STEM.
 
 
 ### Technical stack
