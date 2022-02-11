@@ -62,17 +62,45 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
 
   - **Mobile Apps suckz, Web Apps rules.** You app will be hosted in a (mobile)
     browser which means the "usual" foundation: HTML, Javascript, CSS, etc.
+    And maybe, if you have been especially naughty, 
+    [some](https://mithril.js.org/) 
+    [flavor](https://reactjs.org/) 
+    [of](https://vuejs.org/) 
+    [trendy](https://www.solidjs.com/)
+    [framework](https://svelte.dev/) 
+    on top of that (?).
 
   - **Peer-to-peer.** Since every player will use his own mobile phone as a 
     virtual hand of cards, these browser need to communicate. We'd like to
-    avoid the need a central server
+    avoid the need a central server (because, you know, **more work! 🏗️**),
+    the [WebRTC](https://webrtc.org/) technology (or a simpler layer on
+    top of it, such as [PeerJS](https://peerjs.com/)) could be used.
+
 
 ### FAQ
 
   - **Is Cards Against Humanity (the company) going to sue me ?**
+    Probably not if you're doing it right since they have licensed
+    the classic deck of cards under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). 👍
 
-  - **But I know only Python, not Javascript!**
+  - **But I know only Python, not Javascript!** If you have a problem with
+    Javascript, you may try [Pyodide](https://pyodide.org/en/stable/) which
+    allows to use the Python langage in the browser. Of course, now you
+    have probably probably introduced several much more challenging problems! 🤣 
 
-  - **Why is this project in English and not in French?**
-    Les équivalent français
-    [Limite Limite](https://limitelimite.com/) and [Blanc-manger coco](https://blancmangercoco.com/)
+  - **But I know C++, not Javascript!** Dude/chica, there are limits to what I
+    can do 😮‍💨
+
+  - **I couldn't code if my life depended on it, is this project for me?**.
+    Do you lack [the proper motivation](https://i.ytimg.com/vi/mWqGJ613M5Y/maxresdefault.jpg)?
+    More seriously, learning Javascript -- and a new set of APIs -- will be needed
+    and is going to take a bit of time;
+    but most of your Python skills should be transferable. And on the other hand,
+    it (wildly) guess that it should be "reasonably easy" to get a (very simple) working prototype 
+    if you opt for a very simple interface (say, only text and buttons and 
+    maybe a complex initial setup to connect to the peers)[2].
+    Of course, there is still plenty of work to do at this point if you want to
+    provide a more polished user experience.
+
+
+[2]: This statement is highly non-contractual. 😉
