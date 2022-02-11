@@ -14,9 +14,11 @@
 >
 > Source: [Wikipedia](https://en.wikipedia.org/wiki/Cards_Against_Humanity)
 
-Typically:
+For example, one question is:
 
-I am sorry Professor, but I couldn't complete my homework because of ___________
+> I am sorry Professor, but I couldn't complete my homework because of ___________
+
+and you may have to chose the "best" (funniest) complement among:
 
   - The Devil himself.
 
@@ -29,6 +31,14 @@ I am sorry Professor, but I couldn't complete my homework because of ___________
   - A brain tumor.
 
   - Poor life choices.
+
+  - Daddy issues.
+
+  - COVID-19.
+
+  - Kanye West.
+
+  - Being on fire.
 
 
 ### The project
@@ -44,13 +54,19 @@ the physical deck of cards (that you probably don't carry around all the time)[^
 But otherwise we'd like to keep as much as possible the spirit and dynamics 
 of the original game.
 
-[^1] But by all means, buy a deck of cards if you want to support Cards Against
+[^1]: But by all means, buy a deck of cards if you want to support Cards Against
 Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.com/products/science-pack) whose profits are donated to the [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) for women in STEM.
 
 
 ### Technical stack
 
-  - Mobile Apps suckz, Web Apps rules. You app will be 
+  - **Mobile Apps suckz, Web Apps rules.** You app will be 
 
   - Since everyone will probably use his own mobile phone as a virtual hand of
     cards, each
+
+### FAQ
+
+  - **Is Cards Against Humanity (the company) going to sue me ?**
+
+  - **But I know only Python, not Javascript!**
