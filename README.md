@@ -72,7 +72,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
 
   - 🫂 **Peer-to-peer.** Since every player will use his own mobile phone as a 
     virtual hand of cards, these browsers need to communicate. 
-    We'd like to avoid the need a central server (because, you know, **more work! 🏗️**),
+    We'd like to avoid using a central server (because, you know, **more work! 🏗️**),
     the [WebRTC](https://webrtc.org/) technology (or a simpler layer on
     top of it, such as [PeerJS](https://peerjs.com/)) could be used.
 
