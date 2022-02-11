@@ -88,7 +88,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     allows to use the Python langage in the browser. Of course, now you
     have probably probably introduced several much more challenging problems! 🤣 
 
-  - **But I know C++, not Javascript!** Dude/chica, despite all my good intentions,
+  - **But I know C++, not Javascript!** Dude/chica, despite my good intentions,
     there are limits to what I can do. 🥰
 
   - **I couldn't code if my life depended on it, is this project for me?**.
