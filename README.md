@@ -96,6 +96,6 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     Let's be honest, learning Javascript -- and a new set of APIs -- will take some effort,
     but some of your Python skills should be transferable. And additionally,
     I believe that it should be reasonably easy to get a clunky and minimalistic but working prototype[^2].
-
+    So, that's a yes!
 
 [^2]: This statement is highly non-contractual. 😉
