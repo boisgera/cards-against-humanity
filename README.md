@@ -54,7 +54,7 @@ the physical deck of cards (that you probably don't carry around all the time)[^
 But otherwise we'd like to keep as much as possible the spirit and dynamics 
 of the original game.
 
-[^1]: But by all means, buy a deck of cards if you want to support Cards Against
+[^1]: But by all means, buy the [classic deck of cards](https://www.cardsagainsthumanity.com/products/cards-against-humanity) if you want to support Cards Against
 Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.com/products/science-pack) whose profits are donated to the [Science Ambassador Scholarship](https://www.scienceambassadorscholarship.org/) for women in STEM.
 
 
