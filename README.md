@@ -99,7 +99,7 @@ Humanity financially and/or the [Science Pack](https://www.cardsagainsthumanity.
     I (wildly) guess that it should be "reasonably easy" to get a clunky but working prototype 
     if you opt for a very simple interface (say, only text and buttons and 
     maybe a complex initial setup to connect to the peers)[^2].
-    Of course, there is still plenty of work to do at this point if you want to
+    Of course, there is still potentially plenty of work to do at this point if you want to
     provide a more polished user experience.
 
 
